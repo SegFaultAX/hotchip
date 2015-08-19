@@ -1,20 +1,16 @@
-HotChip
-=======
+# HotChip
 
 Singularity command-line client and request orchestration utility
 
-Installation
-------------
+## Installation
 
 TODO
 
-Usage
------
+## Usage
 
 TODO
 
-License
--------
+## License
 
 Copyright 2015 Michael-Keith Bernard
 
